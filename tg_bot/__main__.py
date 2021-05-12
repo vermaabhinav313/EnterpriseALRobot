@@ -67,7 +67,7 @@ the things I can help you with.
  \nClick on the buttons below to get documentation about specific modules!"""
 
 
-KIGYO_IMG = "https://telegra.ph/file/e5100e06c03767af80023.jpg"
+KIGYO_IMG = "https://telegra.ph/file/f9d7361408de13378130f.jpg"
 
 
 IMPORTED = {}
